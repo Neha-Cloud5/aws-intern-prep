@@ -1,0 +1,6 @@
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+john:x:1001:1001:John Smith:/home/john:/bin/bash
+jane:x:1002:1002:Jane Doe:/home/jane:/usr/sbin/nologin
+alex:x:1003:1003:Alex:/home/alex:/bin/bash
+
