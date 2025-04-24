@@ -119,5 +119,17 @@ explorer.exe "$(pwd)/$folder"
   - File size (KB): `du -k "$file"`
   - Line count if file ends in `.txt`, `.sh`, or `.log`.
 
-Let me know what more you want to include!
+### 12. Appending and Logging Output
+
+>> and tee -a
+
+>> appends output to a file:
+
+echo "Hello" >> file.txt
+
+tee -a appends output to a file and shows it in the terminal:
+
+echo "Hello" | tee -a file.txt
+
+Useful for creating logs while also seeing output.
 
