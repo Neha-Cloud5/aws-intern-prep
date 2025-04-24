@@ -1,0 +1,4 @@
+Total .sh files: 1
+Total .txt files: 0
+Total .log files: 1
+Total other files: 3
