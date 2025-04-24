@@ -1,0 +1,25 @@
+Filename: README.md
+ Size : 1 KB
+-------------------------------
+Filename: bash_scripting_notes.md
+ Size : 4 KB
+-------------------------------
+Filename: file-type-summary.txt
+ Size : 1 KB
+Lines: 
+-------------------------------
+Filename: menu.log
+ Size : 1 KB
+Lines: 
+-------------------------------
+Filename: notes.md
+ Size : 4 KB
+-------------------------------
+Filename: summary.sh
+ Size : 4 KB
+Lines: 
+-------------------------------
+Filename: summary.txt
+ Size : 1 KB
+Lines: 
+-------------------------------
